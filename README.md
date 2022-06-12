@@ -22,3 +22,5 @@ https://intense-sands-10215.herokuapp.com/
 /ingredients
 /ingredients/:id
 ```
+## Acknowledgments
+- <a href="https://dontstarve.fandom.com/wiki/Don%27t_Starve_Wiki">Don't Starve Wiki</a>
