@@ -4,14 +4,39 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 // require data //
-const charactersData = require('./data/characters.json')
+const charactersData = require('./data/characters.json');
+const craftableItemsData = require('./data/craftable-items.json');
+const craftingTabsData = require('./data/crafting-tabs.json');
+const foodGroupsData = require('./data/food-groups.json');
+const ingredientsData = require('./data/ingredients.json');
+const mobsData = require('./data/mobs.json');
 
 app.get('/', (req, res) => {
     res.send('Homepage')
 });
 
 app.get('/characters', (req, res) => {
-    res.send(charactersData)
+    res.send(charactersData);
+});
+
+app.get('/craftable-items', (req, res) => {
+    res.send(craftableItemsData);
+});
+
+app.get('/crafting-tabs', (req, res) => {
+    res.send(craftingTabsData);
+});
+
+app.get('/food-groups', (req, res) => {
+    res.send(foodGroupsData);
+});
+
+app.get('/ingredients', (req, res) => {
+    res.send(ingredientsData);
+});
+
+app.get('/mobs', (req, res) => {
+    res.send(mobsData);
 });
 
 // listen to port //
