@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Tools",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 2,
+        "title": "Light",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 3,
+        "title": "Survival",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 4,
+        "title": "Food",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 5,
+        "title": "Science",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 6,
+        "title": "Fight",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 7,
+        "title": "Structures",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 8,
+        "title": "Refine",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 9,
+        "title": "Magic",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 10,
+        "title": "Dress",
+        "dlc": ["DS"]
+    }
+]

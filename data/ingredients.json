@@ -1,0 +1,566 @@
+[
+    {
+        "id": 1,
+        "title": "Batilisk Wing",
+        "food_group": "Meats",
+        "raw": {
+            "health": 3,
+            "hunger": 12.5,
+            "sanity": -10,
+            "spoils": "6 days"
+        },
+        "cooked": {
+            "health": 8,
+            "hunger": 18.75,
+            "sanity": 0,
+            "spoils": "10 days"
+        },
+        "dlc": [["DS"]]
+    },
+    {
+        "id": 2,
+        "title": "Drumstick",
+        "food_group": "Meats",
+        "raw": {
+            "health": 0,
+            "hunger": 12.5,
+            "sanity": -10,
+            "spoils": "6 days"
+        },
+        "cooked": {
+            "health": 1,
+            "hunger": 18.75,
+            "sanity": 0,
+            "spoils": "10 days"
+        },
+        "dlc": [["DS"]]
+    },
+    {
+        "id": 3,
+        "title": "Eel",
+        "food_group": "Fishes",
+        "raw": {
+            "health": 3,
+            "hunger": 9.375,
+            "sanity": 0,
+            "spoils": "6 days"
+        },
+        "cooked": {
+            "health": 8,
+            "hunger": 12.5,
+            "sanity": 0,
+            "spoils": "10 days"
+        },
+        "dlc": [["DS"]]
+    },
+    {
+        "id": 4,
+        "title": "Fish",
+        "food_group": "Fishes",
+        "raw": {
+            "health": 1,
+            "hunger": 12.5,
+            "sanity": 0,
+            "spoils": "3 days"
+        },
+        "cooked": {
+            "health": 1,
+            "hunger": 12.5,
+            "sanity": 0,
+            "spoils": "6 days"
+        },
+        "dlc": [["DS"]]
+    },
+    {
+        "id": 5,
+        "title": "Frog Legs",
+        "food_group": "Meats",
+        "raw": {
+            "health": 0,
+            "hunger": 12.5,
+            "sanity": -10,
+            "spoils": "6 days"
+        },
+        "cooked": {
+            "health": 1,
+            "hunger": 12.5,
+            "sanity": 0,
+            "spoils": "10 days"
+        },
+        "dlc": [["DS"]]
+    },
+    {
+        "id": 6,
+        "title": "Koalefant Trunk",
+        "food_group": "Meats",
+        "raw": {
+            "health": 30,
+            "hunger": 37.5,
+            "sanity": 0,
+            "spoils": "6 days"
+        },
+        "cooked": {
+            "health": 40,
+            "hunger": 75,
+            "sanity": 0,
+            "spoils": "15 days"
+        },
+        "dlc": [["DS"]]
+    },
+    {
+        "id": 7,
+        "title": "Leafy Meat",
+        "food_group": "Meats",
+        "raw": {
+            "health": 0,
+            "hunger": 12.5,
+            "sanity": -10,
+            "spoils": "6 days"
+        },
+        "cooked": {
+            "health": 1,
+            "hunger": 18.75,
+            "sanity": 0,
+            "spoils": "10 days"
+        },
+        "dlc": ["DS"]
+    },
+    {
+        "id": 8,
+        "title": "Meat",
+        "food_group": "Meats",
+        "raw": {
+            "health": 1,
+            "hunger": 25,
+            "sanity": -10,
+            "spoils": "6 days"
+        },
+        "cooked": {
+            "health": 3,
+            "hunger": 25,
+            "sanity": 0,
+            "spoils": "10 days"
+        },
+        "dlc": ["DS"]
+    },
+    {
+        "id": 9,
+        "title": "Monster Meat",
+        "food_group": "Meats",
+        "raw": {
+            "health": -20,
+            "hunger": 18.75,
+            "sanity": -15,
+            "spoils": "6 days"
+        },
+        "cooked": {
+            "health": -3,
+            "hunger": 18.75,
+            "sanity": -10,
+            "spoils": "15 days"
+        },
+        "dlc": ["DS"]
+    },
+    {
+        "id": 10,
+        "title": "Morsel",
+        "food_group": "Meats",
+        "raw": {
+            "health": 0,
+            "hunger": 12.5,
+            "sanity": -10,
+            "spoils": "6 days"
+        },
+        "cooked": {
+            "health": 1,
+            "hunger": 12.5,
+            "sanity": 0,
+            "spoils": "10 days"
+        },
+        "dlc": ["DS"]
+    },
+    {
+        "id": 11,
+        "title": "Guardian's Horn",
+        "food_group": "Meats",
+        "raw": {
+            "health": 30,
+            "hunger": 75,
+            "sanity": -15,
+            "spoils": "Does not spoil"
+        },
+        "cooked": false,
+        "dlc": ["DS"]
+    },
+    {
+        "id": 12,
+        "title": "Deepclops Eyeball",
+        "food_group": "Meats",
+        "raw": {
+            "health": 60,
+            "hunger": 75,
+            "sanity": -15,
+            "spoils": "Does not spoil"
+        },
+        "cooked": false,
+        "dlc": ["DS"]
+    },
+    {
+        "id": 13,
+        "title": "Dead Dogfish",
+        "food_group": "Fishes",
+        "raw": {
+            "health": 1,
+            "hunger": 25,
+            "sanity": 0,
+            "spoils": "6 days"
+        },
+        "cooked": {
+            "health": 20,
+            "hunger": 25,
+            "sanity": 0,
+            "spoils": "6 days"
+        },
+        "dlc": [["SW"]]
+    },
+    {
+        "id": 14,
+        "title": "Dead Swordfish",
+        "food_group": "Fishes",
+        "raw": {
+            "health": 1,
+            "hunger": 25,
+            "sanity": 0,
+            "spoils": "6 days"
+        },
+        "cooked": {
+            "health": 20,
+            "hunger": 25,
+            "sanity": 0,
+            "spoils": "6 days"
+        },
+        "dlc": [["SW"]]
+    },
+    {
+        "id": 15,
+        "title": "Dragoon Heart",
+        "food_group": "Meats",
+        "raw": {
+            "health": 11,
+            "hunger": 25,
+            "sanity": -10,
+            "spoils": "10 days"
+        },
+        "cooked": false,
+        "dlc": [["SW"]]
+    },
+    {
+        "id": 16,
+        "title": "Eye of the Tiger Shark",
+        "food_group": "Meats",
+        "raw": {
+            "health": 60,
+            "hunger": 75,
+            "sanity": -15,
+            "spoils": "Does not spoil"
+        },
+        "cooked": false,
+        "dlc": [["SW"]]
+    },
+    {
+        "id": 17,
+        "title": "Neon Quattro",
+        "food_group": "Fishes",
+        "raw": {
+            "health": 1,
+            "hunger": 12.5,
+            "sanity": 0,
+            "spoils": "10 days"
+        },
+        "cooked": {
+            "health": 3,
+            "hunger": 12.5,
+            "sanity": 0,
+            "spoils": "6 days"
+        },
+        "dlc": [["SW"]]
+    },
+    {
+        "id": 18,
+        "title": "Pierrot Fish",
+        "food_group": "Fishes",
+        "raw": {
+            "health": 1,
+            "hunger": 12.5,
+            "sanity": 0,
+            "spoils": "10 days"
+        },
+        "cooked": {
+            "health": 3,
+            "hunger": 12.5,
+            "sanity": 0,
+            "spoils": "6 days"
+        },
+        "dlc": ["SW"]
+    },
+    {
+        "id": 19,
+        "title": "Purple Grouper",
+        "food_group": "Fishes",
+        "raw": {
+            "health": 1,
+            "hunger": 12.5,
+            "sanity": 0,
+            "spoils": "10 days"
+        },
+        "cooked": {
+            "health": 3,
+            "hunger": 12.5,
+            "sanity": 0,
+            "spoils": "6 days"
+        },
+        "dlc": ["SW"]
+    },
+    {
+        "id": 20,
+        "title": "Raw Fish",
+        "food_group": "Fishes",
+        "raw": {
+            "health": 1,
+            "hunger": 25,
+            "sanity": 0,
+            "spoils": "3 days"
+        },
+        "cooked": {
+            "health": 20,
+            "hunger": 25,
+            "sanity": 0,
+            "spoils": "6 days"
+        },
+        "dlc": ["SW", "DST"]
+    },
+    {
+        "id": 21,
+        "title": "Roe",
+        "food_group": "Meats",
+        "raw": {
+            "health": 1,
+            "hunger": 4.6875,
+            "sanity": 0,
+            "spoils": "3 days"
+        },
+        "cooked": {
+            "health": 0,
+            "hunger": 4.6875,
+            "sanity": 0,
+            "spoils": "10 days"
+        },
+        "dlc": ["SW"]
+    },
+    {
+        "id": 22,
+        "title": "Shark Fin",
+        "food_group": "Fishes",
+        "raw": {
+            "health": 20,
+            "hunger": 25,
+            "sanity": -15,
+            "spoils": "6 days"
+        },
+        "cooked": false,
+        "dlc": ["SW"]
+    },
+    {
+        "id": 23,
+        "title": "Tropical Fish",
+        "food_group": "Fishes",
+        "raw": {
+            "health": 1,
+            "hunger": 12.5,
+            "sanity": 0,
+            "spoils": "3 days"
+        },
+        "cooked": {
+            "health": 1,
+            "hunger": 12.5,
+            "sanity": 0,
+            "spoils": "6 days"
+        },
+        "dlc": ["SW"]
+    },
+    {
+        "id": 24,
+        "title": "Flytrap Stalk",
+        "food_group": "Meats",
+        "raw": {
+            "health": 0,
+            "hunger": 12.5,
+            "sanity": -10,
+            "spoils": "6 days"
+        },
+        "cooked": false,
+        "dlc": ["H"]
+    },
+    {
+        "id": 25,
+        "title": "Poison Dartfrog Legs",
+        "food_group": "Meats",
+        "raw": {
+            "health": -3,
+            "hunger": 12.5,
+            "sanity": -10,
+            "spoils": "6 days"
+        },
+        "cooked": {
+            "health": -1,
+            "hunger": 12.5,
+            "sanity": 0,
+            "spoils": "10 days"
+        },
+        "dlc": ["H"]
+    },
+    {
+        "id": 26,
+        "title": "Dead Wobster",
+        "food_group": "Fishes",
+        "raw": {
+            "health": 1,
+            "hunger": 12.5,
+            "sanity": 0,
+            "spoils": "3 days"
+        },
+        "cooked": {
+            "health": 1,
+            "hunger": 12.5,
+            "sanity": 0,
+            "spoils": "6 days"
+        },
+        "dlc": ["SW", "DST"]
+    },
+    {
+        "id": 27,
+        "title": "Fish Morsel",
+        "food_group": "Fishes",
+        "raw": {
+            "health": 1,
+            "hunger": 12.5,
+            "sanity": 0,
+            "spoils": "3 days"
+        },
+        "cooked": {
+            "health": 1,
+            "hunger": 12.5,
+            "sanity": 0,
+            "spoils": "6 days"
+        },
+        "dlc": ["DST"]
+    },
+    {
+        "id": 28,
+        "title": "Barnacles",
+        "food_group": "Fishes",
+        "raw": {
+            "health": 0,
+            "hunger": 12.5,
+            "sanity": -5,
+            "spoils": "6 days"
+        },
+        "cooked": {
+            "health": 1,
+            "hunger": 12.5,
+            "sanity": 0,
+            "spoils": "15 days"
+        },
+        "dlc": ["DST"]
+    },
+    {
+        "id": 29,
+        "title": "Naked Nostrils",
+        "food_group": "Meats",
+        "raw": {
+            "health": 3,
+            "hunger": 12.5,
+            "sanity": -10,
+            "spoils": "6 days"
+        },
+        "cooked": {
+            "health": 8,
+            "hunger": 18.5,
+            "sanity": 0,
+            "spoils": "10 days"
+        },
+        "dlc": ["DST"]
+    },
+    {
+        "id": 30,
+        "title": "Dead Jellyfish",
+        "food_group": "Fishes",
+        "raw": {
+            "health": 10,
+            "hunger": 10,
+            "sanity": 0,
+            "spoils": "6 days"
+        },
+        "cooked": {
+            "health": 10,
+            "hunger": 18.75,
+            "sanity": 0,
+            "spoils": "10 days"
+        },
+        "dlc": ["SW"]
+    },
+    {
+        "id": 31,
+        "title": "Limpets",
+        "food_group": "Fishes",
+        "raw": {
+            "health": 0,
+            "hunger": 12.5,
+            "sanity": -10,
+            "spoils": "6 days"
+        },
+        "cooked": {
+            "health": 1,
+            "hunger": 12.5,
+            "sanity": 0,
+            "spoils": "10 days"
+        },
+        "dlc": ["SW"]
+    },
+    {
+        "id": 32,
+        "title": "Mussel",
+        "food_group": "Fishes",
+        "raw": {
+            "health": 0,
+            "hunger": 12.5,
+            "sanity": -15,
+            "spoils": "3 days"
+        },
+        "cooked": {
+            "health": 1,
+            "hunger": 12.5,
+            "sanity": 0,
+            "spoils": "10 days"
+        },
+        "dlc": ["SW"]
+    },
+    {
+        "id": 33,
+        "title": "Dead Rainbow Jellyfish",
+        "food_group": "Fishes",
+        "raw": {
+            "health": 10,
+            "hunger": 10,
+            "sanity": 0,
+            "spoils": "6 days"
+        },
+        "cooked": {
+            "health": 10,
+            "hunger": 18.75,
+            "sanity": 0,
+            "spoils": "10 days"
+        },
+        "dlc": ["SW"]
+    }
+]

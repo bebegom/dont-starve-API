@@ -1,0 +1,2164 @@
+[
+    {
+        "id": 1,
+        "title": "Axe",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 1
+            },
+            {
+                "title": "Flint",
+                "amount": 1
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Always Available",
+        "stackable": false,
+        "durability": "100 uses",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 2,
+        "title": "Luxury Axe",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 4
+            },
+            {
+                "title": "Gold Nugget",
+                "amount": 2
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "400 uses",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 3,
+        "title": "Pickaxe",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 2
+            },
+            {
+                "title": "Flint",
+                "amount": 2
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Always available",
+        "stackable": false,
+        "durability": "33 uses",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 4,
+        "title": "Opulent Pickaxe",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 4
+            },
+            {
+                "title": "Gold Nugget",
+                "amount": 2
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "132 uses",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 5,
+        "title": "Shovel",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 2
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": "25 uses",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 6,
+        "title": "Regal Shovel",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 4
+            },
+            {
+                "title": "Gold Nugget",
+                "amount": 2
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "100 uses",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 7,
+        "title": "Pitchfork",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 2
+            },
+            {
+                "title": "Flint",
+                "amount": 2
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": "200 uses (25 as a weapon, 1 when digging up Gas Rainforest Turf in Hamlet)",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 8,
+        "title": "Hammer",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 3
+            },
+            {
+                "title": "Rocks",
+                "amount": 3
+            },
+            {
+                "title": "Rope",
+                "amount": 2
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": "75 uses",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 9,
+        "title": "Razor",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 2
+            },
+            {
+                "title": "Flint",
+                "amount": 2
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": "Infinite",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 10,
+        "title": "Feather Pencil",
+        "needed_supplies": [
+            {
+                "title": "Charcoal",
+                "amount": 1
+            },
+            {
+                "title": "Jet Feather",
+                "amount": 1
+            },
+            {
+                "title": "Twigs",
+                "amount": 1
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Science Machine",
+        "stackable": 20,
+        "durability": false,
+        "dlc": ["DS"]
+    },
+    {
+        "id": 11,
+        "title": "Saddlehorn",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 2
+            },
+            {
+                "title": "Bone Shards",
+                "amount": 2
+            },
+            {
+                "title": "Jet Feather",
+                "amount": 1
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "10 uses (4 as a weapon)",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 12,
+        "title": "Saddle",
+        "needed_supplies": [
+            {
+                "title": "Beefalo Wool",
+                "amount": 4
+            },
+            {
+                "title": "Pig Skin",
+                "amount": 4
+            },
+            {
+                "title": "Gold Nugget",
+                "amount": 4
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "5 uses",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 13,
+        "title": "War Saddle",
+        "needed_supplies": [
+            {
+                "title": "Rabbit",
+                "amount": 4
+            },
+            {
+                "title": "Steel Wool",
+                "amount": 4
+            },
+            {
+                "title": "Log",
+                "amount": 10
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "8 uses",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 14,
+        "title": "Glossamer Saddle",
+        "needed_supplies": [
+            {
+                "title": "Living Log",
+                "amount": 2
+            },
+            {
+                "title": "Silk",
+                "amount": 4
+            },
+            {
+                "title": "Butterfly Wings",
+                "amount": 68
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Alchmy Engine",
+        "stackable": false,
+        "durability": "8 uses",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 15,
+        "title": "Brush",
+        "needed_supplies": [
+            {
+                "title": "Steel Wool",
+                "amount": 1
+            },
+            {
+                "title": "Walrus Tusk",
+                "amount": 1
+            },
+            {
+                "title": "Gold Nugget",
+                "amount": 2
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Alchmy Engine",
+        "stackable": false,
+        "durability": "75 uses (25 as a weapon)",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 16,
+        "title": "Salt Lick",
+        "needed_supplies": [
+            {
+                "title": "Boards",
+                "amount": 2
+            },
+            {
+                "title": "Nitre",
+                "amount": 4
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Alchmy Engine",
+        "stackable": false,
+        "durability": "240 uses",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 17,
+        "title": "Machete",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 1
+            },
+            {
+                "title": "Flint",
+                "amount": 3
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Always available",
+        "stackable": false,
+        "durability": "100 uses",
+        "dlc": ["SW", "H"]
+    },
+    {
+        "id": 18,
+        "title": "Luxury Machete",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 4
+            },
+            {
+                "title": "Gold Nugget",
+                "amount": 2
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "400 uses",
+        "dlc": ["SW", "H"]
+    },
+    {
+        "id": 19,
+        "title": "Shears",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 2
+            },
+            {
+                "title": "Iron Ore",
+                "amount": 2
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": "20 uses",
+        "dlc": ["H"]
+    },
+    {
+        "id": 20,
+        "title": "Pocket Scale",
+        "needed_supplies": [
+            {
+                "title": "Logs",
+                "amount": 1
+            },
+            {
+                "title": "Cut Stone",
+                "amount": 1
+            },
+            {
+                "title": "Gold Nugget",
+                "amount": 1
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": "100 uses",
+        "dlc": ["DST"]
+    },
+    {
+        "id": 21,
+        "title": "Garden Hoe",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 2
+            },
+            {
+                "title": "Flint",
+                "amount": 2
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": "25 uses",
+        "dlc": ["DST"]
+    },
+    {
+        "id": 22,
+        "title": "Splendid Garden Hoe",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 4
+            },
+            {
+                "title": "Gold Nugget",
+                "amount": 2
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "100 uses",
+        "dlc": ["DST"]
+    },
+    {
+        "id": 23,
+        "title": "Watering Can",
+        "needed_supplies": [
+            {
+                "title": "Boards",
+                "amount": 2
+            },
+            {
+                "title": "Rope",
+                "amount": 1
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": "40 uses",
+        "dlc": ["DST"]
+    },
+    {
+        "id": 24,
+        "title": "Waterfowl Can",
+        "needed_supplies": [
+            {
+                "title": "Driftwood Piece",
+                "amount": 2
+            },
+            {
+                "title": "Rope",
+                "amount": 1
+            },
+            {
+                "title": "Malbatross Bill",
+                "amount": 1
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "160 uses",
+        "dlc": ["DST"]
+    },
+    {
+        "id": 25,
+        "title": "Beefalo Bell",
+        "needed_supplies": [
+            {
+                "title": "Gold Nugget",
+                "amount": 3
+            },
+            {
+                "title": "Flint",
+                "amount": 1
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": "?",
+        "dlc": ["DST"]
+    },
+    {
+        "id": 26,
+        "title": "Clean Sweeper",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 1
+            },
+            {
+                "title": "Petals",
+                "amount": 4
+            }
+        ],
+        "tab": "Tools",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "?",
+        "dlc": ["DST"]
+    },
+    {
+        "id": 27,
+        "title": "Campfire",
+        "needed_supplies": [
+            {
+                "title": "Logs",
+                "amount": 2
+            },
+            {
+                "title": "Cut Grass",
+                "amount": 3
+            }
+        ],
+        "tab": "Light",
+        "tier": "Always Available",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["DS"]
+    },
+    {
+        "id": 28,
+        "title": "Fire Pit",
+        "needed_supplies": [
+            {
+                "title": "Logs",
+                "amount": 2
+            },
+            {
+                "title": "Rocks",
+                "amount": 12
+            }
+        ],
+        "tab": "Light",
+        "tier": "Always Available",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["DS"]
+    },
+    {
+        "id": 29,
+        "title": "Torch",
+        "needed_supplies": [
+            {
+                "title": "Cut Grass",
+                "amount": 2
+            },
+            {
+                "title": "Twigs",
+                "amount": 2
+            }
+        ],
+        "tab": "Light",
+        "tier": "Always Available",
+        "stackable": false,
+        "durability": "75 sec",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 30,
+        "title": "Miner Hat",
+        "needed_supplies": [
+            {
+                "title": "Straw Hat",
+                "amount": 1
+            },
+            {
+                "title": "Gold Nugget",
+                "amount": 1
+            },
+            {
+                "title": "Fireflies",
+                "amount": 1
+            }
+        ],
+        "tab": "Light",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "7 min 48 sec",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 31,
+        "title": "Pumpkin Lantern",
+        "needed_supplies": [
+            {
+                "title": "Pumpkin",
+                "amount": 1
+            },
+            {
+                "title": "Fireflies",
+                "amount": 1
+            }
+        ],
+        "tab": "Light",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "10 min in summer, 13 min 20 sec in winter",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 32,
+        "title": "Lantern",
+        "needed_supplies": [
+            {
+                "title": "Light Bulb",
+                "amount": 2
+            },
+            {
+                "title": "Twigs",
+                "amount": 3
+            },
+            {
+                "title": "Rope",
+                "amount": 2
+            }
+        ],
+        "tab": "Light",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "7 min 48 sec",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 33,
+        "title": "Endothermic Fire",
+        "needed_supplies": [
+            {
+                "title": "Nitre",
+                "amount": 2
+            },
+            {
+                "title": "Cut Grass",
+                "amount": 3
+            }
+        ],
+        "tab": "Light",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["RoG", "SW", "DST"]
+    },
+    {
+        "id": 34,
+        "title": "Endothermic Fire Pit",
+        "needed_supplies": [
+            {
+                "title": "Nitre",
+                "amount": 2
+            },
+            {
+                "title": "Cut Stone",
+                "amount": 4
+            },
+            {
+                "title": "Electrical Doodad",
+                "amount": 2
+            }
+        ],
+        "tab": "Light",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["RoG", "SW", "DST"]
+    },
+    {
+        "id": 35,
+        "title": "Moggles",
+        "needed_supplies": [
+            {
+                "title": "Moleworm",
+                "amount": 2
+            },
+            {
+                "title": "Electrical Doodad",
+                "amount": 2
+            },
+            {
+                "title": "Glow Berry",
+                "amount": 1
+            }
+        ],
+        "tab": "Light",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "12 min",
+        "dlc": ["RoG", "H", "DST"]
+    },
+    {
+        "id": 36,
+        "title": "Chiminea",
+        "needed_supplies": [
+            {
+                "title": "Limestone",
+                "amount": 2
+            },
+            {
+                "title": "Sand",
+                "amount": 2
+            },
+            {
+                "title": "Logs",
+                "amount": 2
+            }
+        ],
+        "tab": "Light",
+        "tier": "Always available",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["SW"]
+    },
+    {
+        "id": 37,
+        "title": "Buoyant Chiminea",
+        "needed_supplies": [
+            {
+                "title": "Limestone",
+                "amount": 6
+            },
+            {
+                "title": "Sand",
+                "amount": 4
+            },
+            {
+                "title": "Tar",
+                "amount": 6
+            }
+        ],
+        "tab": "Light",
+        "tier": "Always available",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["SW"]
+    },
+    {
+        "id": 38,
+        "title": "Tar Lamp",
+        "needed_supplies": [
+            {
+                "title": "Seashell",
+                "amount": 1
+            },
+            {
+                "title": "Tar",
+                "amount": 1
+            }
+        ],
+        "tab": "Light",
+        "tier": "Always available",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["SW"]
+    },
+    {
+        "id": 39,
+        "title": "Obsidian Fire Pit",
+        "needed_supplies": [
+            {
+                "title": "Logs",
+                "amount": 3
+            },
+            {
+                "title": "Obsidian",
+                "amount": 8
+            }
+        ],
+        "tab": "Light",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["SW"]
+    },
+    {
+        "id": 40,
+        "title": "Bottle Lantern",
+        "needed_supplies": [
+            {
+                "title": "Empty Bottle",
+                "amount": 1
+            },
+            {
+                "title": "Bioluminescence",
+                "amount": 2
+            }
+        ],
+        "tab": "Light",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "8 min",
+        "dlc": ["SW"]
+    },
+    {
+        "id": 41,
+        "title": "Boat Torch",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 2
+            },
+            {
+                "title": "Torch",
+                "amount": 1
+            }
+        ],
+        "tab": "Light",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": "1 min 45 sec",
+        "dlc": ["SW"]
+    },
+    {
+        "id": 42,
+        "title": "Boat Lantern",
+        "needed_supplies": [
+            {
+                "title": "Empty Bottle",
+                "amount": 1
+            },
+            {
+                "title": "Twigs",
+                "amount": 2
+            },
+            {
+                "title": "FireFlies",
+                "amount": 1
+            }
+        ],
+        "tab": "Light",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": "7 min 48 sec",
+        "dlc": ["SW"]
+    },
+    {
+        "id": 43,
+        "title": "Cork Candle Hat",
+        "needed_supplies": [
+            {
+                "title": "Cork",
+                "amount": 4
+            },
+            {
+                "title": "Iron Ore",
+                "amount": 2
+            }
+        ],
+        "tab": "Light",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": "2 min",
+        "dlc": ["H"]
+    },
+    {
+        "id": 44,
+        "title": "Cowl",
+        "needed_supplies": [
+            {
+                "title": "Pig Skin",
+                "amount": 2
+            },
+            {
+                "title": "Batilisk Wing",
+                "amount": 1
+            },
+            {
+                "title": "Compass",
+                "amount": 1
+            }
+        ],
+        "tab": "Light",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "2 days",
+        "dlc": ["H"]
+    },
+    {
+        "id": 45,
+        "title": "Mushlight",
+        "needed_supplies": [
+            {
+                "title": "Shroom Skin",
+                "amount": 1
+            },
+            {
+                "title": "Bucket-o-poop",
+                "amount": 1
+            }
+        ],
+        "tab": "Light",
+        "tier": "Blueprint",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["DST"]
+    },
+    {
+        "id": 46,
+        "title": "Glowcap",
+        "needed_supplies": [
+            {
+                "title": "Shroom Skin",
+                "amount": 1
+            },
+            {
+                "title": "Bucket-o-poop",
+                "amount": 1
+            },
+            {
+                "title": "Boards",
+                "amount": 1
+            }
+        ],
+        "tab": "Light",
+        "tier": "Blueprint",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["DST"]
+    },
+    {
+        "id": 47,
+        "title": "Trap",
+        "needed_supplies": [
+            {
+                "title": "Cut Grass",
+                "amount": 6
+            },
+            {
+                "title": "Twigs",
+                "amount": 2
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Always Available",
+        "stackable": false,
+        "durability": "8 uses",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 48,
+        "title": "Bird Trap",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 3
+            },
+            {
+                "title": "Silk",
+                "amount": 4
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": "8 uses",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 49,
+        "title": "Bug Net",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 4
+            },
+            {
+                "title": "Silk",
+                "amount": 2
+            },
+            {
+                "title": "Rope",
+                "amount": 1
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": "10 uses (4 as a weapon)",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 50,
+        "title": "Fishing Rod",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 2
+            },
+            {
+                "title": "Silk",
+                "amount": 2
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": "9 uses (3 as a weapon)",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 51,
+        "title": "Pretty Parasol",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 4
+            },
+            {
+                "title": "Cut Grass",
+                "amount": 3
+            },
+            {
+                "title": "Petals",
+                "amount": 6
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Always Available",
+        "stackable": false,
+        "durability": "?",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 52,
+        "title": "Umbrella",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 6
+            },
+            {
+                "title": "Pig Skin",
+                "amount": 1
+            },
+            {
+                "title": "Silk",
+                "amount": 2
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": "Infinity (20 as a weapon)",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 53,
+        "title": "Honey Poultice",
+        "needed_supplies": [
+            {
+                "title": "Papyrus",
+                "amount": 1
+            },
+            {
+                "title": "Honey",
+                "amount": 2
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Alchemy Engine",
+        "stackable": 40,
+        "durability": false,
+        "dlc": ["DS"]
+    },
+    {
+        "id": 54,
+        "title": "Healing Salve",
+        "needed_supplies": [
+            {
+                "title": "Ashes",
+                "amount": 2
+            },
+            {
+                "title": "Rocks",
+                "amount": 1
+            },
+            {
+                "title": "Spider Gland",
+                "amount": 1
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Science Machine",
+        "stackable": 40,
+        "durability": false,
+        "dlc": ["DS"]
+    },
+    {
+        "id": 55,
+        "title": "Compass",
+        "needed_supplies": [
+            {
+                "title": "Gold Nugget",
+                "amount": 1
+            },
+            {
+                "title": "Papyrus",
+                "amount": 1
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": "2.5 days",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 56,
+        "title": "Thermal Stone",
+        "needed_supplies": [
+            {
+                "title": "Rocks",
+                "amount": 10
+            },
+            {
+                "title": "Pickaxe",
+                "amount": 1
+            },
+            {
+                "title": "Flint",
+                "amount": 3
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "Infinity",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 57,
+        "title": "Backpack",
+        "needed_supplies": [
+            {
+                "title": "Cut Grass",
+                "amount": 4
+            },
+            {
+                "title": "Twigs",
+                "amount": 4
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["DS"]
+    },
+    {
+        "id": 58,
+        "title": "Piggyback",
+        "needed_supplies": [
+            {
+                "title": "Pig Skin",
+                "amount": 4
+            },
+            {
+                "title": "Silk",
+                "amount": 6
+            },
+            {
+                "title": "Rope",
+                "amount": 2
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["DS"]
+    },
+    {
+        "id": 59,
+        "title": "Straw Roll",
+        "needed_supplies": [
+            {
+                "title": "Cut Grass",
+                "amount": 6
+            },
+            {
+                "title": "Rope",
+                "amount": 1
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Science Machine",
+        "stackable": 10,
+        "durability": "1 use",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 60,
+        "title": "Fur Roll",
+        "needed_supplies": [
+            {
+                "title": "Straw Roll",
+                "amount": 1
+            },
+            {
+                "title": "Bunny Puff",
+                "amount": 2
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "3 uses",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 61,
+        "title": "Tent",
+        "needed_supplies": [
+            {
+                "title": "Silk",
+                "amount": 6
+            },
+            {
+                "title": "Twigs",
+                "amount": 4
+            },
+            {
+                "title": "Rope",
+                "amount": 3
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "6 uses",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 62,
+        "title": "Bundling Wrap",
+        "needed_supplies": [
+            {
+                "title": "Papyrus",
+                "amount": 1
+            },
+            {
+                "title": "Rope",
+                "amount": 1
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Blueprint",
+        "stackable": 20,
+        "durability": false,
+        "dlc": ["DS"]
+    },
+    {
+        "id": 63,
+        "title": "Siensta Lean-to",
+        "needed_supplies": [
+            {
+                "title": "Silk",
+                "amount": 2
+            },
+            {
+                "title": "Boards",
+                "amount": 4
+            },
+            {
+                "title": "Rope",
+                "amount": 3
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "6 uses",
+        "dlc": ["RoG", "SW", "H", "DST"]
+    },
+    {
+        "id": 64,
+        "title": "Luxury Fan",
+        "needed_supplies": [
+            {
+                "title": "Down Feather",
+                "amount": 5
+            },
+            {
+                "title": "Cut Reeds",
+                "amount": 2
+            },
+            {
+                "title": "Rope",
+                "amount": 2
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "15 uses",
+        "dlc": ["RoG", "DST"]
+    },
+    {
+        "id": 65,
+        "title": "Insulated Pack",
+        "needed_supplies": [
+            {
+                "title": "Thick Fur",
+                "amount": 1
+            },
+            {
+                "title": "Gears",
+                "amount": 3
+            },
+            {
+                "title": "Electrical Doodad",
+                "amount": 3
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["RoG", "DST"]
+    },
+    {
+        "id": 66,
+        "title": "Anti Venom",
+        "needed_supplies": [
+            {
+                "title": "Venom Gland",
+                "amount": 1
+            },
+            {
+                "title": "Seaweed",
+                "amount": 3
+            },
+            {
+                "title": "Coral",
+                "amount": 2
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Alchemy Engine",
+        "stackable": 40,
+        "durability": false,
+        "dlc": ["SW", "H"]
+    },
+    {
+        "id": 67,
+        "title": "Tropical Parasol",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 4
+            },
+            {
+                "title": "Palm Leaf",
+                "amount": 3
+            },
+            {
+                "title": "Pedals",
+                "amount": 6
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Always Available",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["SW"]
+    },
+    {
+        "id": 68,
+        "title": "Silly Monkey Ball",
+        "needed_supplies": [
+            {
+                "title": "Snakeskin",
+                "amount": 2
+            },
+            {
+                "title": "Banana",
+                "amount": 1
+            },
+            {
+                "title": "Rope",
+                "amount": 2
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": "10 uses",
+        "dlc": ["SW"]
+    },
+    {
+        "id": 69,
+        "title": "Thatch Pack",
+        "needed_supplies": [
+            {
+                "title": "Palm Leaf",
+                "amount": 4
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Always Available",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["SW"]
+    },
+    {
+        "id": 70,
+        "title": "Palm Leaf Hut",
+        "needed_supplies": [
+            {
+                "title": "Palm Leaf",
+                "amount": 4
+            },
+            {
+                "title": "Bamboo",
+                "amount": 4
+            },
+            {
+                "title": "Rope",
+                "amount": 3
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["SW"]
+    },
+    {
+        "id": 71,
+        "title": "Tropical Fan",
+        "needed_supplies": [
+            {
+                "title": "Doydoy Feather",
+                "amount": 5
+            },
+            {
+                "title": "Cut Reeds",
+                "amount": 2
+            },
+            {
+                "title": "Rope",
+                "amount": 2
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "15 uses",
+        "dlc": ["SW"]
+    },
+    {
+        "id": 72,
+        "title": "Sea Sack",
+        "needed_supplies": [
+            {
+                "title": "Seaweed",
+                "amount": 5
+            },
+            {
+                "title": "Vine",
+                "amount": 2
+            },
+            {
+                "title": "Shark Gills",
+                "amount": 1
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["SW"]
+    },
+    {
+        "id": 73,
+        "title": "Doydoy Nest",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 8
+            },
+            {
+                "title": "Doydoy Feather",
+                "amount": 2
+            },
+            {
+                "title": "Manure",
+                "amount": 4
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["SW"]
+    },
+    {
+        "id": 74,
+        "title": "Bug B'Gone",
+        "needed_supplies": [
+            {
+                "title": "Tuber",
+                "amount": 6
+            },
+            {
+                "title": "Flytrap Stalk",
+                "amount": 1
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": "20 uses",
+        "dlc": ["H"]
+    },
+    {
+        "id": 75,
+        "title": "Bird Whistle",
+        "needed_supplies": [
+            {
+                "title": "Hippopotamoose Antler",
+                "amount": 1
+            },
+            {
+                "title": "Platapine Quill",
+                "amount": 3
+            },
+            {
+                "title": "Flint",
+                "amount": 1
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": "5 uses",
+        "dlc": ["H"]
+    },
+    {
+        "id": 76,
+        "title": "Tillweed Salve",
+        "needed_supplies": [
+            {
+                "title": "Tillweeds",
+                "amount": 4
+            },
+            {
+                "title": "Petals",
+                "amount": 4
+            },
+            {
+                "title": "Charcoal",
+                "amount": 1
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Alchemy Engine",
+        "stackable": 40,
+        "durability": false,
+        "dlc": ["DST"]
+    },
+    {
+        "id": 77,
+        "title": "Telltale Heart",
+        "needed_supplies": [
+            {
+                "title": "Cut Grass",
+                "amount": 3
+            },
+            {
+                "title": "Spider Gland",
+                "amount": 1
+            },
+            {
+                "title": "Health Decrease",
+                "amount": 40
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Always Available",
+        "stackable": false,
+        "durability": "1 use",
+        "dlc": ["DST"]
+    },
+    {
+        "id": 78,
+        "title": "Booster Shot",
+        "needed_supplies": [
+            {
+                "title": "Rot",
+                "amount": 8
+            },
+            {
+                "title": "Nitre",
+                "amount": 2
+            },
+            {
+                "title": "Stinger",
+                "amount": 1
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Alchemy Engine",
+        "stackable": 40,
+        "durability": "1 use",
+        "dlc": ["DST"]
+    },
+    {
+        "id": 79,
+        "title": "Sea Fishing Rod",
+        "needed_supplies": [
+            {
+                "title": "Boards",
+                "amount": 1
+            },
+            {
+                "title": "Silk",
+                "amount": 6
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["DST"]
+    },
+    {
+        "id": 80,
+        "title": "Flare",
+        "needed_supplies": [
+            {
+                "title": "Cut Grass",
+                "amount": 1
+            },
+            {
+                "title": "Twigs",
+                "amount": 1
+            },
+            {
+                "title": "Nitre",
+                "amount": 1
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Always Available",
+        "stackable": false,
+        "durability": "1 use",
+        "dlc": ["DST"]
+    },
+    {
+        "id": 81,
+        "title": "Water Balloon",
+        "needed_supplies": [
+            {
+                "title": "Mosquito Sack",
+                "amount": 2
+            },
+            {
+                "title": "ice",
+                "amount": 1
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Science Machine",
+        "stackable": 20,
+        "durability": "1 use",
+        "dlc": ["DST"]
+    },
+    {
+        "id": 82,
+        "title": "Whirly Fan",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 3
+            },
+            {
+                "title": "Petals",
+                "amount": 1
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Always Available",
+        "stackable": false,
+        "durability": "1 min 30 sec",
+        "dlc": ["DST"]
+    },
+    {
+        "id": 83,
+        "title": "Seed Pack-It",
+        "needed_supplies": [
+            {
+                "title": "Broken Shell",
+                "amount": 2
+            },
+            {
+                "title": "Cut Grass",
+                "amount": 4
+            },
+            {
+                "title": "Seeds",
+                "amount": 2
+            }
+        ],
+        "tab": "Survival",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["DST"]
+    },
+    {
+        "id": 84,
+        "title": "Basic Farm",
+        "needed_supplies": [
+            {
+                "title": "Cut Grass",
+                "amount": 8
+            },
+            {
+                "title": "Manure",
+                "amount": 4
+            },
+            {
+                "title": "Logs",
+                "amount": 4
+            }
+        ],
+        "tab": "Food",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["DS"]
+    },
+    {
+        "id": 85,
+        "title": "Improved Farm",
+        "needed_supplies": [
+            {
+                "title": "Cut Grass",
+                "amount": 10
+            },
+            {
+                "title": "Manure",
+                "amount": 6
+            },
+            {
+                "title": "Rocks",
+                "amount": 4
+            }
+        ],
+        "tab": "Food",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["DS"]
+    },
+    {
+        "id": 86,
+        "title": "Bee Box",
+        "needed_supplies": [
+            {
+                "title": "Boards",
+                "amount": 2
+            },
+            {
+                "title": "Honeycomb",
+                "amount": 1
+            },
+            {
+                "title": "Bee",
+                "amount": 4
+            }
+        ],
+        "tab": "Food",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["DS"]
+    },
+    {
+        "id": 87,
+        "title": "drying Rack",
+        "needed_supplies": [
+            {
+                "title": "Twigs",
+                "amount": 3
+            },
+            {
+                "title": "Charcoal",
+                "amount": 2
+            },
+            {
+                "title": "Rope",
+                "amount": 3
+            }
+        ],
+        "tab": "Food",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["DS"]
+    },
+    {
+        "id": 88,
+        "title": "Crock Pot",
+        "needed_supplies": [
+            {
+                "title": "Cut Stone",
+                "amount": 3
+            },
+            {
+                "title": "Charcoal",
+                "amount": 6
+            },
+            {
+                "title": "Twigs",
+                "amount": 6
+            }
+        ],
+        "tab": "Food",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["DS"]
+    },
+    {
+        "id": 89,
+        "title": "Ice Box",
+        "needed_supplies": [
+            {
+                "title": "Boards",
+                "amount": 1
+            },
+            {
+                "title": "Gears",
+                "amount": 1
+            },
+            {
+                "title": "Gold Nugget",
+                "amount": 2
+            }
+        ],
+        "tab": "Food",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["DS"]
+    },
+    {
+        "id": 90,
+        "title": "Bucket-o-poop",
+        "needed_supplies": [
+            {
+                "title": "Manure",
+                "amount": 3
+            },
+            {
+                "title": "Bone Shards",
+                "amount": 2
+            },
+            {
+                "title": "Logs",
+                "amount": 4
+            }
+        ],
+        "tab": "Food",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "10 uses (5 uses, The Gorge)",
+        "dlc": ["RoG", "SW", "H", "DST"]
+    },
+    {
+        "id": 91,
+        "title": "Mussel Stick",
+        "needed_supplies": [
+            {
+                "title": "Bamboo",
+                "amount": 2
+            },
+            {
+                "title": "Vine",
+                "amount": 1
+            },
+            {
+                "title": "Seaweed",
+                "amount": 1
+            }
+        ],
+        "tab": "Food",
+        "tier": "Science Machine",
+        "stackable": 20,
+        "durability": "1 use",
+        "dlc": ["SW"]
+    },
+    {
+        "id": 92,
+        "title": "Fish Farm",
+        "needed_supplies": [
+            {
+                "title": "Silk",
+                "amount": 2
+            },
+            {
+                "title": "Rope",
+                "amount": 2
+            },
+            {
+                "title": "Coconut",
+                "amount": 4
+            }
+        ],
+        "tab": "Food",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["SW"]
+    },
+    {
+        "id": 93,
+        "title": "Mussel Bed",
+        "needed_supplies": [
+            {
+                "title": "Mussel",
+                "amount": 1
+            },
+            {
+                "title": "Coral",
+                "amount": 1
+            },
+            {
+                "title": "Coconut",
+                "amount": 4
+            }
+        ],
+        "tab": "Food",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["SW"]
+    },
+    {
+        "id": 94,
+        "title": "Sprinkler",
+        "needed_supplies": [
+            {
+                "title": "Alloy",
+                "amount": 2
+            },
+            {
+                "title": "Blue Gem",
+                "amount": 1
+            },
+            {
+                "title": "Ice",
+                "amount": 6
+            }
+        ],
+        "tab": "Food",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "7.5 min",
+        "dlc": ["H"]
+    },
+    {
+        "id": 95,
+        "title": "Mushroom Planter",
+        "needed_supplies": [
+            {
+                "title": "Rot",
+                "amount": 8
+            },
+            {
+                "title": "Manure",
+                "amount": 5
+            },
+            {
+                "title": "Living Logs",
+                "amount": 2
+            }
+        ],
+        "tab": "Food",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["DST"]
+    },
+    {
+        "id": 96,
+        "title": "Cookbook",
+        "needed_supplies": [
+            {
+                "title": "Papyrus",
+                "amount": 1
+            },
+            {
+                "title": "Carrot",
+                "amount": 1
+            }
+        ],
+        "tab": "Food",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["DST"]
+    },
+    {
+        "id": 97,
+        "title": "Salt Box",
+        "needed_supplies": [
+            {
+                "title": "Salt Crystals",
+                "amount": 10
+            },
+            {
+                "title": "Blue Gem",
+                "amount": 1
+            },
+            {
+                "title": "Cut Stone",
+                "amount": 1
+            }
+        ],
+        "tab": "Food",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["DST"]
+    },
+    {
+        "id": 98,
+        "title": "Garden Digamajig",
+        "needed_supplies": [
+            {
+                "title": "Boards",
+                "amount": 3
+            },
+            {
+                "title": "Rope",
+                "amount": 2
+            },
+            {
+                "title": "Flint",
+                "amount": 2
+            }
+        ],
+        "tab": "Food",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": "4 uses",
+        "dlc": ["DST"]
+    },
+    {
+        "id": 99,
+        "title": "Composting Bin",
+        "needed_supplies": [
+            {
+                "title": "Boards",
+                "amount": 3
+            },
+            {
+                "title": "Rot",
+                "amount": 1
+            },
+            {
+                "title": "Cut Grass",
+                "amount": 1
+            }
+        ],
+        "tab": "Food",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["DST"]
+    },
+    {
+        "id": 100,
+        "title": "Growth Formula Starter",
+        "needed_supplies": [
+            {
+                "title": "Empty Bottle (DST)",
+                "amount": 1
+            },
+            {
+                "title": "Kelp Fronds",
+                "amount": 1
+            },
+            {
+                "title": "Ashes",
+                "amount": 1
+            }
+        ],
+        "tab": "Food",
+        "tier": "Alchemy Engine",
+        "stackable": false,
+        "durability": "1/1/1/5",
+        "dlc": ["DST"]
+    },
+    {
+        "id": 101,
+        "title": "Gardeneer Hat",
+        "needed_supplies": [
+            {
+                "title": "Bucket-o-poop",
+                "amount": 1
+            },
+            {
+                "title": "Seeds",
+                "amount": 3
+            },
+            {
+                "title": "Electrical Doodad",
+                "amount": 1
+            }
+        ],
+        "tab": "Food",
+        "tier": "Science Machine",
+        "stackable": false,
+        "durability": false,
+        "dlc": ["DST"]
+    },
+    {
+        "id": 102,
+        "title": "Tree Jam",
+        "needed_supplies": [
+            {
+                "title": "Fig",
+                "amount": 2
+            },
+            {
+                "title": "Gloomer's Goop",
+                "amount": 1
+            }
+        ],
+        "tab": "Food",
+        "tier": "Alchemy Engine",
+        "stackable": 10,
+        "durability": false,
+        "dlc": ["DST"]
+    }
+]

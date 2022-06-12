@@ -1,0 +1,345 @@
+[
+    {
+        "id": 1,
+        "name": "Abigail",
+        "type": "neutral",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 2,
+        "name": "Ancient Guardian",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 3,
+        "name": "Batilisk",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 4,
+        "name": "Bee",
+        "type": "neutral",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 5,
+        "name": "Killer Bee",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 6,
+        "name": "Butterfly",
+        "type": "passive",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 7,
+        "name": "Beefalo",
+        "type": "neutral",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 8,
+        "name": "Birds",
+        "type": "passive",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 9,
+        "name": "Bunnyman",
+        "type": "neutral",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 10,
+        "name": "Charlie (Night Monster)",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 11,
+        "name": "Chester",
+        "type": "passive",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 12,
+        "name": "Clockwork Bishop",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 13,
+        "name": "Clockwork Knight",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 14,
+        "name": "Clockwork Rook",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 15,
+        "name": "Deerclops",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 16,
+        "name": "Depths Worm",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 17,
+        "name": "Ewecus",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 18,
+        "name": "Frog",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 19,
+        "name": "Fireflies",
+        "type": "passive",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 20,
+        "name": "ghost",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 21,
+        "name": "Gobbler",
+        "type": "passive",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 22,
+        "name": "Hound",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 13,
+        "name": "Red Hound",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 24,
+        "name": "Blue Hound",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 25,
+        "name": "Houndius Shootius",
+        "type": "neutral",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 26,
+        "name": "Koalefant",
+        "type": "neutral",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 27,
+        "name": "Winter Koalefant",
+        "type": "neutral",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 28,
+        "name": "Krampus",
+        "type": "neutral",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 29,
+        "name": "MacTusk",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 30,
+        "name": "Wee MacTusk",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 31,
+        "name": "Mandrake",
+        "type": "passive",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 32,
+        "name": "Lureplant",
+        "type": "passive",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 33,
+        "name": "Eyeplant",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 34,
+        "name": "Mosquito",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 35,
+        "name": "Pengull",
+        "type": "neutral",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 36,
+        "name": "Pig",
+        "type": "neutral",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 37,
+        "name": "Guardian Pig",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 38,
+        "name": "Werepig",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 39,
+        "name": "Pig King",
+        "type": "passive",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 40,
+        "name": "Rabbit",
+        "type": "passive",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 41,
+        "name": "Rock Lobster",
+        "type": "neutral",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 42,
+        "name": "Crawling Horror",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 43,
+        "name": "Terrorbeak",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 44,
+        "name": "Slurper",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 45,
+        "name": "Slurtle",
+        "type": "neutral",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 46,
+        "name": "Snurtle",
+        "type": "passive",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 47,
+        "name": "Splumonkey",
+        "type": "neutral",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 48,
+        "name": "Spider",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 49,
+        "name": "Spider Warrior",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 50,
+        "name": "Spider Queen",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 51,
+        "name": "Cave Spider",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 52,
+        "name": "Spitter",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 53,
+        "name": "Dangling Depth Dweller",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 54,
+        "name": "Tallbird",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 55,
+        "name": "Tenticle",
+        "type": "hostile",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 56,
+        "name": "Big Tenticle",
+        "type": "passive",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 57,
+        "name": "Treeguard",
+        "type": "neutral",
+        "dlc": ["DS"]
+    }
+    
+]

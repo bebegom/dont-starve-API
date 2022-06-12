@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "Meats",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 2,
+        "title": "Fishes",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 3,
+        "title": "Eggs",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 4,
+        "title": "Fruits",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 5,
+        "title": "Vegetables",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 6,
+        "title": "Sweeteners",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 7,
+        "title": "Monster Foods",
+        "dlc": ["DS"]
+    },
+    {
+        "id": 8,
+        "title": "Dairy",
+        "dlc": ["RoG"]
+    },
+    {
+        "id": 9,
+        "title": "Bugs",
+        "dlc": ["H"]
+    }
+]
