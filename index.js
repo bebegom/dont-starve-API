@@ -11,10 +11,17 @@ const foodGroupsData = require('./data/food-groups.json');
 const ingredientsData = require('./data/ingredients.json');
 const mobsData = require('./data/mobs.json');
 
+// function to find the id
+const findId = (array, index) => {
+    const found = array.find(i => i.id == index)
+    return found;
+}
+
 app.get('/', (req, res) => {
     res.send('Homepage')
 });
 
+// GET characters //
 app.get('/characters', (req, res) => {
     res.send(charactersData);
 });
@@ -23,13 +30,23 @@ app.get('/characters/:id', (req, res) => {
     const index = req.params.id;
 
     // find character with id === :id
-    const foundCharacter = charactersData.find(character => character.id == index)
+    const foundCharacter = findId(charactersData, index)
 
     res.send(foundCharacter);
 });
 
+// GET craftable-items //
 app.get('/craftable-items', (req, res) => {
     res.send(craftableItemsData);
+});
+
+app.get('/craftable-items/:id', (req, res) => {
+    const index = req.params.id;
+
+    // find item with id === :id
+    const foundItem = findId(craftableItemsData, index);
+
+    res.send(foundItem);
 });
 
 app.get('/crafting-tabs', (req, res) => {
