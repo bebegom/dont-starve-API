@@ -1,6 +1,6 @@
 # Don't Starve API
 
-This is my first little API I created and deployed to Heroku.
+This is my first little API I am creating and deployed to Heroku.
 
 https://intense-sands-10215.herokuapp.com/
 
