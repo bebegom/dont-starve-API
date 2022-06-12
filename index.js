@@ -19,6 +19,15 @@ app.get('/characters', (req, res) => {
     res.send(charactersData);
 });
 
+app.get('/characters/:id', (req, res) => {
+    const index = req.params.id;
+
+    // find character with id === :id
+    const foundCharacter = charactersData.find(character => character.id == index)
+
+    res.send(foundCharacter);
+});
+
 app.get('/craftable-items', (req, res) => {
     res.send(craftableItemsData);
 });
